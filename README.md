@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br>- 👋 Hi, I’m @Skoteinos1<br>- 👀 I’m interested in Stock Market Trading<br>- 🌱 I’m currently taking Data Science course<br>- 💞️ I’m looking to collaborate on how to gain Followers on Social Media Networks <br>- 📫 How to reach me: LinkedIn, Facebook, BlueSky - @peterskotynagy.bsky.social<br>- 😄 Pronouns: I am not easily offended... so have a guess.<br>- ⚡ Cool Story: I crashed brand new Rolls...
+- 👋 Hi, I’m @Skoteinos1
+- 👀 I’m interested in Stock Market Trading<br>- 🌱 I’m currently taking Data Science course<br>- 💞️ I’m looking to collaborate on how to gain Followers on Social Media Networks <br>- 📫 How to reach me: LinkedIn, Facebook, BlueSky - @peterskotynagy.bsky.social<br>- 😄 Pronouns: I am not easily offended... so have a guess.<br>- ⚡ Cool Story: I crashed brand new Rolls...
 
 
 ## 🌐 Socials:
