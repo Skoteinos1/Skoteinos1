@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 👋 Hi, I’m Peter<br>- 👀 I’m interested in Stock Market Trading<br>- 🌱 I’m currently taking Data Science course<br>- 💞️ I’m looking for new job.<br>- 📫 You can reach me through LinkedIn, Facebook or BlueSky - @peterskotynagy.bsky.social<br>- 😄 Pronouns: What do you think? 🚹<br>- ⚡ Cool Story: I crashed brand new Rolls...<br><br>
+<br>- 👋 Hi, I’m Peter.<br>- 👀 I’m interested in Stock Market Trading.<br>- 🌱 Currently, I am engaged in a Data Science course to enhance my skills.<br>- 💞️ I am actively seeking new professional opportunities.<br>- 📫 You can reach me through LinkedIn, Facebook or BlueSky - @peterskotynagy.bsky.social<br>- 😄 Pronouns: Hint - if I look like a man and sound like a man, it's probably because I am one. 🚹<br>- ⚡ Fun Fact: I once found myself in an unexpected dance with a fence while behind the wheel of a brand new Rolls. Ask me about the story—it's a unique tale!<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/peter.s.nagy.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-nagy-95b66487) 
