@@ -4,6 +4,7 @@ Hey there! <img style="display:inline" src="https://media.giphy.com/media/hvRJCL
 
 I'm [Peter Nagy](https://skoteinos1.github.io/).
 <br>
+<br>
 As a self-taught developer (thank god for Stack **Overflow**) with an Economics background, I transitioned from Finance to Software Engineering. Despite no experience, I developed software for Slovakian Cinemas, replacing outdated systems with a Visual Basic solution, utilized for 11 years.
 <br>
 <br>
