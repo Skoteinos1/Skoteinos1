@@ -5,10 +5,10 @@ Hey there! <img style="display:inline" src="https://media.giphy.com/media/hvRJCL
 I'm [Peter Nagy](https://skoteinos1.github.io/).
 <br>
 <br>
-I'm a self-taught developer (thank god for Stack **Overflow**) who transitioned from Finance to Software Engineering. Despite no experience, I developed software for Slovakian Cinemas, replacing outdated systems with a Visual Basic solution, utilized for 11 years.
+I'm a self-taught developer (thank god for Stack Overflow) who transitioned from Finance to Software Engineering. Despite no experience, I developed software for Slovakian Cinemas, replacing outdated systems with a Visual Basic solution, utilized for over a decade.
 <br>
 <br>
-My passion for computers started at early age, thanks to my parents working in IT. It was during the times of myths and legends, when paper punch cards were a thing. Outside of work, I enjoy weightlifting, playing guitar, skiing, and biking.
+My passion for computers started at early age, thanks to my parents working in IT. Outside of work, I enjoy weightlifting, playing guitar, skiing, and biking.
 <br>
 <br>
 Currently, I'm exploring Data Science to enhance my stock market trading strategies.
