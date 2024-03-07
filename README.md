@@ -6,11 +6,11 @@ I'm [Peter Nagy](https://skoteinos1.github.io/).
 
 <br/>
 As a self-taught developer (thank god for Stack **Overflow**) with an Economics background, I transitioned from Finance to Software Engineering. Despite no experience, I developed software for Slovakian Cinemas, replacing outdated systems with a Visual Basic solution, utilized for 11 years.
-
+<br/>
 Growing up with parents in IT during the times of myths and legends, when paper punch cards were a thing, fueled my passion for computers from an early age. Outside of work, I enjoy weightlifting, playing guitar, skiing, and biking.
-
+<br/>
 Currently, I'm exploring Data Science to enhance my stock market trading strategies.
-<br><br>
+<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/peter.s.nagy.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-nagy-95b66487) 
